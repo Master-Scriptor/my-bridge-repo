@@ -1,0 +1,11 @@
+        {
+          "name": "network-bridge",
+          "version": "1.0.0",
+          "description": "Simple network bridge frontend",
+          "scripts": {
+            "start": "serve -s ."
+          },
+          "dependencies": {
+            "serve": "^14.0.1"
+          }
+        }
