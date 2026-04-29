@@ -1,11 +1,12 @@
-        {
-          "name": "network-bridge",
-          "version": "1.0.0",
-          "description": "Simple network bridge frontend",
-          "scripts": {
-            "start": "serve -s ."
-          },
-          "dependencies": {
-            "serve": "^14.0.1"
-          }
-        }
+{
+  "name": "my-bridge-repo",
+  "version": "1.0.0",
+  "description": "Connection Bridge Status",
+  "main": "index.html",
+  "scripts": {
+    "start": "echo \"See index.html\" && exit 0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
